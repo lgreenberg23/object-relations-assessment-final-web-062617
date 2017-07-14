@@ -102,3 +102,8 @@ class Viewer
   	Rating.new(movie, score, self)
   end
 end
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 0b5997acde30bce87e551af6e286ed0e86d077f9
